@@ -1,4 +1,4 @@
-const countToDate = Date.parse("17 Dec 2023 00:00:00 GMT+1");
+const countToDate = Date.parse("18 Dec 2023 00:00:00 GMT+1");
 console.log("", countToDate);
 let previous;
 setInterval(() => {
